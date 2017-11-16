@@ -1,4 +1,4 @@
-package com.dblazejewski.akka.remote.model
+package com.dblazejewski.akkaremote.model
 
 object RemoteProtocol {
 
