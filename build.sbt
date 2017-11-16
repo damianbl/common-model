@@ -1,6 +1,8 @@
 name := "common-model"
 
-version := "1.1"
+organization := "com.dblazejewski"
+
+version := "1.2"
 
 scalaVersion := "2.11.11"
 
